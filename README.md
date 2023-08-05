@@ -1,5 +1,3 @@
-# entrega_semana1_prog
-
 # Introdução
 
 # Objetivo
